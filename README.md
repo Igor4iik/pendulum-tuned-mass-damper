@@ -26,7 +26,7 @@ L'IA a été utilisée dans le respect de l'éthique scientifique pour les tâch
 
 © 2026 Igor (Igor4iik)
 
-- **Code source (`code/`) :** [MIT License](https://opensource.org/license/mit)
+- **Code (`code/`) :** [MIT License](https://opensource.org/license/mit)
 - **Rapport et illustrations originales :** [Creative Commons CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.fr)
 
 Les contenus provenant de sources externes restent soumis à leurs licences respectives.
