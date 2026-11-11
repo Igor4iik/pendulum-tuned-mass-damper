@@ -1,4 +1,5 @@
 # Pendulum Tuned Mass Damper
+**Contexte** : Ce projet est la poursuite de mon TIPE que j'ai réalisé pendant ma prépa. Il m'a rapporté une note de 17.5/20 au concours !
 ## Amortisseur harmonique à pendule
 [📄 Lire le rapport complet](Rapport_Amortisseur_harmonique.pdf)
 
@@ -15,6 +16,7 @@ Les 2 accéléromètres permettent de comparer les accélérations d'entrée et 
 
 ## Résultats
 L'étude simplifiée d'un amortisseur harmonique à pendule a permis de mettre en évidence le phénomène d'atténuation des oscillations lors de la résonance. Lors de l'expérience, le pendule a permis de diminuer le gain d'environ 25 dB à la fréquence de résonance. Mais le pendule a également entraîné l'apparition d'un pic de résonance secondaire (une augmentation du gain de 10 dB) qui n'était pas présent sans le pendule.
+
 
 ## Utilisation de IA
 L'IA a été utilisée dans le respect de l'éthique scientifique pour les tâches suivantes :
